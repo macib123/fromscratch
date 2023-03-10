@@ -1,0 +1,10 @@
+body{
+ background-color:aliceblue;   
+ font-family: Arial, Helvetica, sans-serif;
+}
+title{
+    position: fixed;
+    font-size: xxx-large;
+    color:rgba(0, 0, 0, 0.898)
+
+}
